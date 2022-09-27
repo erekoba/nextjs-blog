@@ -1,5 +1,5 @@
 ---
-title: 'Two Forms of Pre-rendering'
+title: 'リコリスリコイル面白い'
 date: '2020-01-01'
 ---
 
